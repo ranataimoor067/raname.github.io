@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reverse engineering course (with radare2)
-permalink: /reversing
+permalink: /redare2/reversing
 comments: false
 ---
 
